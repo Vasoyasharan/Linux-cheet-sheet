@@ -1,7 +1,7 @@
 
 # Linux-cheat-sheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@hegdezer0root](https://github.com/Vasoyasharan) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Vasoyasharan](https://github.com/Vasoyasharan) for technical updates.
 
 ### Table of Contents
 
